@@ -1,0 +1,8 @@
+C:\Users\joedm\Documents\SharpDevelop Projects\windowsCalculator\windowsCalculator\bin\Debug\windowsCalculator.exe.config
+C:\Users\joedm\Documents\SharpDevelop Projects\windowsCalculator\windowsCalculator\bin\Debug\windowsCalculator.exe
+C:\Users\joedm\Documents\SharpDevelop Projects\windowsCalculator\windowsCalculator\bin\Debug\windowsCalculator.pdb
+C:\Users\joedm\Documents\SharpDevelop Projects\windowsCalculator\windowsCalculator\obj\Debug\windowsCalculator.csprojResolveAssemblyReference.cache
+C:\Users\joedm\Documents\SharpDevelop Projects\windowsCalculator\windowsCalculator\obj\Debug\windowsCalculator.MainForm.resources
+C:\Users\joedm\Documents\SharpDevelop Projects\windowsCalculator\windowsCalculator\obj\Debug\windowsCalculator.csproj.GenerateResource.Cache
+C:\Users\joedm\Documents\SharpDevelop Projects\windowsCalculator\windowsCalculator\obj\Debug\windowsCalculator.exe
+C:\Users\joedm\Documents\SharpDevelop Projects\windowsCalculator\windowsCalculator\obj\Debug\windowsCalculator.pdb
